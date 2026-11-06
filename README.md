@@ -20,8 +20,8 @@ Restro/
 ```
 
 ## Technologies Used
-- HTML5
-- CSS3
+- HTML
+- CSS
 - Font Awesome
 
 ## Author
