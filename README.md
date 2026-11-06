@@ -1,6 +1,4 @@
-# E-Website
 # Restro – Restaurant Landing Page
-
 ## Project Overview
 A simple and attractive restaurant landing page built using HTML and CSS.
 
